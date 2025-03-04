@@ -4,8 +4,8 @@
 🔍 Passionate about building AI-driven sports analytics solutions with expertise in computer vision, deep learning, and camera calibration. Currently working on ball detection, tracking, and 3D reconstruction for sports technology.
 
 💡 What I Do:
-📸 Computer Vision & AI – Specializing in object tracking, feature detection, and camera calibration using Python, C++, and OpenCV.
-🏏 Sports Tech Innovation – Developing cricket and golf analytics tools that enhance athlete performance.
+- 📸 Computer Vision & AI – Specializing in object tracking, feature detection, and camera calibration using Python, C++, and OpenCV.
+- 🏏 Sports Tech Innovation – Developing cricket and golf analytics tools that enhance athlete performance.
 🤖 Machine Learning & NLP – Experienced in deep learning, transformers, and large-scale data analytics.
 🎯 Problem Solver – LeetCode enthusiast & AI researcher always up for a challenge.
 🚀 Key Projects & Achievements:
